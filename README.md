@@ -37,9 +37,8 @@ The dashboard is designed to help business managers and decision-makers quickly 
 ✅ Dashboard Layout with KPI cards, pie charts, and bar graphs.
 
 # 📷 Dashboard Preview
+<img width="1366" height="487" alt="Screenshot 2025-06-21 213306v" src="https://github.com/user-attachments/assets/cbd6361a-9d6b-4be9-9e41-f4e7d81c2c7e" />
 
-
-(Replace with your uploaded screenshot file — already added above.)
 
 # 🚀 How to Use
 
